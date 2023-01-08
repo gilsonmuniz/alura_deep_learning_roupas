@@ -1,7 +1,7 @@
 # Alura Deep Learning com TensorFlow e Keras
 
 ## Curso:
-1. [Deep Learning Parte 1: Keras](cursos.alura.com.br/certificate/9ef1b028-5bfb-4a4c-a699-826f7801687c):
+1. [Deep Learning Parte 1: Keras](https://cursos.alura.com.br/certificate/9ef1b028-5bfb-4a4c-a699-826f7801687c):
 - Conhecendo o conjunto de dados
 - Começando a montar o modelo
 - Adicionando camadas ocultas
